@@ -1,4 +1,4 @@
-package org.example.esercizi;
+package org.example.ClassiAstratte.esercizi;
 
 public class Main {
     public static void main(String[] args) {

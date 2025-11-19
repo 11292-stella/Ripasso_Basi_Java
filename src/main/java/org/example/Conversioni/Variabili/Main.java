@@ -1,4 +1,4 @@
-package org.example.Variabili;
+package org.example.Conversioni.Variabili;
 
 public class Main {
     public static void main(String[] args) {

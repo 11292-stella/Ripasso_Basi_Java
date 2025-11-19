@@ -1,4 +1,4 @@
-package org.example.animali;
+package org.example.CosèUnOggettoUnaClasseUnMetodo.PrimaCreazioneClasseConCostruttoEMetodi;
 
 public class SuonoAnimale extends Suoni{
     public SuonoAnimale(String primosuono, String secondosuono, String terzosuono) {

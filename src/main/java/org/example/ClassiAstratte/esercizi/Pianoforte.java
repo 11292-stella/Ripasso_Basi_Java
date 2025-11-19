@@ -1,4 +1,4 @@
-package org.example.esercizi;
+package org.example.ClassiAstratte.esercizi;
 
 public class Pianoforte extends StrumentoMusicale {
     public Pianoforte(String strumento, String suono) {

@@ -1,4 +1,4 @@
-package org.example.esercizi;
+package org.example.ClassiAstratte.esercizi;
 
 public abstract class StrumentoMusicale {
 

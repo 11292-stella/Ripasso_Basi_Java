@@ -1,4 +1,4 @@
-package org.example.esercizi;
+package org.example.ClassiAstratte.esercizi;
 
 public class Chitarra extends StrumentoMusicale{
     public Chitarra(String strumento, String suono) {

@@ -1,4 +1,4 @@
-package org.example.animali;
+package org.example.CosèUnOggettoUnaClasseUnMetodo.PrimaCreazioneClasseConCostruttoEMetodi;
 
 public abstract class  Suoni {
 
